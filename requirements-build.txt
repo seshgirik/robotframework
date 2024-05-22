@@ -7,3 +7,4 @@ wheel
 docutils
 pygments >= 2.1
 robotframeworklexer >= 1.1
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
